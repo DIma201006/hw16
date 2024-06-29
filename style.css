@@ -1,0 +1,11 @@
+.bg-box {
+    width: 144git 0px;
+    height: 930px;
+    background-color: green;
+    background-image: url(./img/lamp.png.png), url(./img/hous.png.webp), url(./img/green.png.png),url(./img/donat.png.png),url(./img/hedgehog.png.webp);
+    background-repeat: repeat-x, no-repeat, repeat-x,repeat-y,repeat-y;
+    background-position: top, center, bottom,right,left;
+    background-size: 37px 60px,auto, 300px 200px,50px 50px,50px 50px;
+    
+    }
+    
